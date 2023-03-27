@@ -30,5 +30,3 @@ version used to test the code in the tutorial is **1.19.3**.
 ```bash
 $ git clone https://github.com/bright113gene/poc-cloud
 ```
-
-- `cd` into the project directory and follow along with the command 'go mod install && go run main.go'
